@@ -5,7 +5,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 import os
 message_body = '''Hi,
-Thid id a test email with attachment.
+This is a test email with attachment.
 We are using Python3 SMTP library for sending email. 
 '''
 
